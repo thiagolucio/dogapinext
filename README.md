@@ -12,14 +12,17 @@ Dog API from Shopventory
 
 
 
-## Run projetct:
-
-
-
+## Install packages from Project:
+#### Inside both "frontend" and "backend" folders:
 ```
 yarn or npm install
 ```
-
+#### run in "frontend" folder to up API :
 ```
-yarn dev
+yarn api or next api
+```
+
+#### run in "frontend" folder to run frontend next server:
+```
+yarn dev or next dev
 ```
