@@ -1,0 +1,18 @@
+/* Color Variables */
+
+$default_background: #fff;
+$primary_color: #bdb3a5;
+$primary_color_hover: #968e83;
+$green_color: rgb(77, 230, 184);
+$green_color_hover: rgb(74, 141, 132);
+$red_color: #e72761;
+$white_color: #ffffff;
+$dark_color: #333333;
+
+
+:export {
+    default_background: $default_background;
+    primary_color: $primary_color;
+    green_background: $green_color;
+    red_color: $red_color;
+}
