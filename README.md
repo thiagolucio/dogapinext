@@ -19,7 +19,7 @@ yarn or npm install
 ```
 #### run in "frontend" folder to up API :
 ```
-yarn api or next api
+yarn api or npm api
 ```
 
 #### run in "frontend" folder to run frontend next server:

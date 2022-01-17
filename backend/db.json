@@ -1,354 +1,164 @@
 {
-  "dogs": [
-      {
-          "id": 1,
-          "name": "Yellow-billed stork",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/doloremsapientedolorum.png?size=50x50&set=set1",
-          "gender": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
-      },
-      {
-          "id": 2,
-          "name": "Long-billed corella",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/nostrumquierror.png?size=50x50&set=set1",
-          "gender": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
-      },
-      {
-          "id": 3,
-          "name": "American crow",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/magnamtemporibusfuga.png?size=50x50&set=set1",
-          "gender": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
-      },
-      {
-          "id": 4,
-          "name": "Fat-tailed dunnart",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/dolorquibusdamofficia.png?size=50x50&set=set1",
-          "gender": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
-      },
-      {
-          "id": 5,
-          "name": "Tree porcupine",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/etconsequaturaliquam.png?size=50x50&set=set1",
-          "gender": "Fusce consequat. Nulla nisl. Nunc nisl."
-      },
-      {
-          "id": 6,
-          "name": "Golden jackal",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/dictaassumendaaut.png?size=50x50&set=set1",
-          "gender": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
-      },
-      {
-          "id": 7,
-          "name": "Hartebeest, coke's",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/evenietdolorumratione.png?size=50x50&set=set1",
-          "gender": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
-      },
-      {
-          "id": 8,
-          "name": "Magistrate black colobus",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/occaecatiutillum.png?size=50x50&set=set1",
-          "gender": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
-      },
-      {
-          "id": 9,
-          "name": "Moose",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/utettemporibus.png?size=50x50&set=set1",
-          "gender": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-      },
-      {
-          "id": 10,
-          "name": "Leopard",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/noniurereiciendis.png?size=50x50&set=set1",
-          "gender": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
-      },
-      {
-          "id": 11,
-          "name": "Dolphin, common",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/beataeconsequaturminus.png?size=50x50&set=set1",
-          "gender": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
-      },
-      {
-          "id": 12,
-          "name": "Ox, musk",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/aliasquamtenetur.png?size=50x50&set=set1",
-          "gender": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
-      },
-      {
-          "id": 13,
-          "name": "Miner's cat",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/nesciuntsitdolore.png?size=50x50&set=set1",
-          "gender": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
-      },
-      {
-          "id": 14,
-          "name": "Buffalo, asian water",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/consequaturestquibusdam.png?size=50x50&set=set1",
-          "gender": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
-      },
-      {
-          "id": 15,
-          "name": "Tortoise, radiated",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/inciduntoditsaepe.png?size=50x50&set=set1",
-          "gender": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
-      },
-      {
-          "id": 16,
-          "name": "Tortoise, burmese brown mountain",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/fugiatautemet.png?size=50x50&set=set1",
-          "gender": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
-      },
-      {
-          "id": 17,
-          "name": "Wallaroo, common",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/molestiasquiadolorem.png?size=50x50&set=set1",
-          "gender": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
-      },
-      {
-          "id": 18,
-          "name": "Gull, southern black-backed",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/rerumlaborumporro.png?size=50x50&set=set1",
-          "gender": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
-      },
-      {
-          "id": 19,
-          "name": "Chuckwalla",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/illumaperiamenim.png?size=50x50&set=set1",
-          "gender": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum."
-      },
-      {
-          "id": 20,
-          "name": "American bighorn sheep",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/saepeilloporro.png?size=50x50&set=set1",
-          "gender": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-      },
-      {
-          "id": 21,
-          "name": "African snake (unidentified)",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/laudantiumeaqueaccusantium.png?size=50x50&set=set1",
-          "gender": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
-      },
-      {
-          "id": 22,
-          "name": "Peccary, collared",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/impeditexmaiores.png?size=50x50&set=set1",
-          "gender": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
-      },
-      {
-          "id": 23,
-          "name": "Wild water buffalo",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/molestiaequiscommodi.png?size=50x50&set=set1",
-          "gender": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
-      },
-      {
-          "id": 24,
-          "name": "Galapagos mockingbird",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/impedithicofficia.png?size=50x50&set=set1",
-          "gender": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
-      },
-      {
-          "id": 25,
-          "name": "Black-cheeked waxbill",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/inquiaodit.png?size=50x50&set=set1",
-          "gender": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
-      },
-      {
-          "id": 26,
-          "name": "Olive baboon",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/consequaturquiquidem.png?size=50x50&set=set1",
-          "gender": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
-      },
-      {
-          "id": 27,
-          "name": "Warthog",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/sedsitet.png?size=50x50&set=set1",
-          "gender": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
-      },
-      {
-          "id": 28,
-          "name": "Weaver, white-browed sparrow",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/harumnamsuscipit.png?size=50x50&set=set1",
-          "gender": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
-      },
-      {
-          "id": 29,
-          "name": "Kangaroo, eastern grey",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/aututet.png?size=50x50&set=set1",
-          "gender": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
-      },
-      {
-          "id": 30,
-          "name": "Wild turkey",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/etatquequo.png?size=50x50&set=set1",
-          "gender": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
-      },
-      {
-          "id": 31,
-          "name": "Bottle-nose dolphin",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/undeipsameum.png?size=50x50&set=set1",
-          "gender": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo."
-      },
-      {
-          "id": 32,
-          "name": "Red-tailed phascogale",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/sintiurenemo.png?size=50x50&set=set1",
-          "gender": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
-      },
-      {
-          "id": 33,
-          "name": "Cape white-eye",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/officiaillumprovident.png?size=50x50&set=set1",
-          "gender": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
-      },
-      {
-          "id": 34,
-          "name": "Dassie",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/inautqui.png?size=50x50&set=set1",
-          "gender": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
-      },
-      {
-          "id": 35,
-          "name": "Coke's hartebeest",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/consecteturineius.png?size=50x50&set=set1",
-          "gender": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
-      },
-      {
-          "id": 36,
-          "name": "Corella, long-billed",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/abvoluptatumeligendi.png?size=50x50&set=set1",
-          "gender": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
-      },
-      {
-          "id": 37,
-          "name": "Little heron",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/corruptieumpraesentium.png?size=50x50&set=set1",
-          "gender": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
-      },
-      {
-          "id": 38,
-          "name": "Eastern fox squirrel",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/illumrepudiandaeiste.png?size=50x50&set=set1",
-          "gender": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
-      },
-      {
-          "id": 39,
-          "name": "Ring-necked pheasant",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/pariaturreprehenderitab.png?size=50x50&set=set1",
-          "gender": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
-      },
-      {
-          "id": 40,
-          "name": "Pig-tailed macaque",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/eteumut.png?size=50x50&set=set1",
-          "gender": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-      },
-      {
-          "id": 41,
-          "name": "Asian foreset tortoise",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/magniarchitectoeum.png?size=50x50&set=set1",
-          "gender": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
-      },
-      {
-          "id": 42,
-          "name": "Short-nosed bandicoot",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/vitaerecusandaequas.png?size=50x50&set=set1",
-          "gender": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
-      },
-      {
-          "id": 43,
-          "name": "Blesbok",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/sedomniset.png?size=50x50&set=set1",
-          "gender": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
-      },
-      {
-          "id": 44,
-          "name": "Wolf, common",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/ducimushicdolorem.png?size=50x50&set=set1",
-          "gender": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
-      },
-      {
-          "id": 45,
-          "name": "Deer, roe",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/utnisivoluptatem.png?size=50x50&set=set1",
-          "gender": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-      },
-      {
-          "id": 46,
-          "name": "Crab (unidentified)",
-          "url": "http://dummyimage.com/250x250.png/dddddd/000000",
-          "owner_name": "https://robohash.org/voluptatemliberoquis.png?size=50x50&set=set1",
-          "gender": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-      },
-      {
-          "id": 47,
-          "name": "Porcupine, african",
-          "url": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-          "owner_name": "https://robohash.org/laborumipsaincidunt.png?size=50x50&set=set1",
-          "gender": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
-      },
-      {
-          "id": 48,
-          "name": "Gull, lava",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/atnullahic.png?size=50x50&set=set1",
-          "gender": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
-      },
-      {
-          "id": 49,
-          "name": "African lynx",
-          "url": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-          "owner_name": "https://robohash.org/molestiaeremodio.png?size=50x50&set=set1",
-          "gender": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
-      },
-      {
-          "id": 50,
-          "name": "Monitor, white-throated",
-          "url": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-          "owner_name": "https://robohash.org/optioiustocorrupti.png?size=50x50&set=set1",
-          "gender": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl."
-      }
-  ]
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Chital",
+            "avatar": "/images/woman.png",
+            "owner": "gdonnan0@barnesandnoble.com",
+            "url": "/images/n02085782_28.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 2,
+            "name": "Cape raven",
+            "avatar": "/images/man.png",
+            "owner": "rhammel1@amazon.de",
+            "url": "/images/n02085936_233.jpg",
+            "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti."
+        },
+        {
+            "id": 3,
+            "name": "Silver gull",
+            "avatar": "/images/woman.png",
+            "owner": "ryakob2@multiply.com",
+            "url": "/images/n02086079_347.jpg",
+            "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis."
+        },
+        {
+            "id": 4,
+            "name": "Common dolphin",
+            "avatar": "/images/man.png",
+            "owner": "sshynn3@cisco.com",
+            "url": "/images/n02086240_61.jpg",
+            "description": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+        },
+        {
+            "id": 5,
+            "name": "Springbok",
+            "avatar": "/images/woman.png",
+            "owner": "rgowdie4@google.com.br",
+            "url": "/images/n02089973_186.jpg",
+            "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 6,
+            "name": "American Starfforshire Terrier",
+            "avatar": "/images/man.png",
+            "owner": "bkondratenya5@rediff.com",
+            "url": "/images/n02093428_814.jpg",
+            "description": "Integer ac neque."
+        },
+        {
+            "id": 7,
+            "name": "Russian dragonfly",
+            "avatar": "/images/woman.png",
+            "owner": "aheustace6@stanford.edu",
+            "url": "/images/n02093991_278.jpg",
+            "description": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+        },
+        {
+            "id": 8,
+            "name": "Black spider monkey",
+            "avatar": "/images/man.png",
+            "owner": "bfleetwood7@addtoany.com",
+            "url": "/images/n02111277_371.jpg",
+            "description": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio."
+        },
+        {
+            "id": 9,
+            "name": "Phalarope, northern",
+            "avatar": "/images/woman.png",
+            "owner": "ntabourier8@cocolog-nifty.com",
+            "url": "/images/n02096177_181.jpg",
+            "description": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+        },
+        {
+            "id": 10,
+            "name": "Gonolek, burchell's",
+            "avatar": "/images/man.png",
+            "owner": "lrate9@latimes.com",
+            "url": "/images/n02106030_1821.jpg",
+            "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi."
+        },
+        {
+            "id": 11,
+            "name": "Swainson's francolin",
+            "avatar": "/images/woman.png",
+            "owner": "lkrysztofiaka@bigcartel.com",
+            "url": "/images/n02107312_67.jpg",
+            "description": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+        },
+        {
+            "id": 12,
+            "name": "Armadillo, common long-nosed",
+            "avatar": "/images/man.png",
+            "owner": "ngoodwynb@europa.eu",
+            "url": "/images/n02106662_695.jpg",
+            "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
+        },
+        {
+            "id": 13,
+            "name": "Gull, dusky",
+            "avatar": "/images/woman.png",
+            "owner": "ftottemc@vinaora.com",
+            "url": "/images/n02107908_298.jpg",
+            "description": "Morbi a ipsum."
+        },
+        {
+            "id": 14,
+            "name": "Common wolf",
+            "avatar": "/images/man.png",
+            "owner": "kscholtisd@cloudflare.com",
+            "url": "/images/n02108422_278.jpg",
+            "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+        },
+        {
+            "id": 15,
+            "name": "German Dog",
+            "avatar": "/images/woman.png",
+            "owner": "amatthause@i2i.jp",
+            "url": "/images/n02109047_926.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+        },
+        {
+            "id": 16,
+            "name": "Stork, painted",
+            "avatar": "/images/man.png",
+            "owner": "ylevetf@oakley.com",
+            "url": "/images/n02109525_345.jpg",
+            "description": "In hac habitasse platea dictumst."
+        },
+        {
+            "id": 17,
+            "name": "Otter, african clawless",
+            "avatar": "/images/woman.png",
+            "owner": "awestnedgeg@imdb.com",
+            "url": "/images/n02112018_276.jpg",
+            "description": "Fusce posuere felis sed lacus."
+        },
+        {
+            "id": 18,
+            "name": "Olive baboon",
+            "avatar": "/images/man.png",
+            "owner": "tmcmillanh@mapquest.com",
+            "url": "/images/n02110806_402.jpg",
+            "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue."
+        },
+        {
+            "id": 19,
+            "name": "Blacksmith Pug",
+            "avatar": "/images/woman.png",
+            "owner": "cbrocketti@friendfeed.com",
+            "url": "/images/n02110958_609.jpg",
+            "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+        },
+        {
+            "id": 20,
+            "name": "African wild dog",
+            "avatar": "/images/man.png",
+            "owner": "lforrej@squarespace.com",
+            "url": "/images/n02113023_187.jpg",
+            "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+        }
+    ]
 }

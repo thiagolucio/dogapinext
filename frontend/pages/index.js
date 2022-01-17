@@ -2,7 +2,6 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import Footer from "../components/footer";
-import GetDogNames from "../components/getdognames";
 import ImageIntro from "../public/images/dog_love_open.gif";
 import styles from "../styles/Home.module.scss";
 
