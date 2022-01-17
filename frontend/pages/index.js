@@ -35,12 +35,13 @@ export default function Home() {
           />
         </p>
         <div className={styles.grid}>
-            <Link href="/list" >
-              <a className="button button_primary font_buttons font_dog">Come on buddy!</a>
-            </Link>
-        </div>        
+          <Link href="/list">
+            <a className="button button_primary font_buttons font_dog">
+              Come on buddy!
+            </a>
+          </Link>
+        </div>
       </main>
-
       <Footer />
     </div>
   );

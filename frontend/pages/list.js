@@ -1,10 +1,9 @@
 import NavBar from "../components/navbar";
 import Footer from "../components/footer";
-import Image from "next/image";
-
+import BackTop from "../components/backtop";
 import styles from "../styles/List.module.scss";
 
-export async function getStaticProps() {  
+export async function getStaticProps() {
   const res = await fetch("http://localhost:3001/dogs");
   const data = await res.json();
   return {
@@ -20,31 +19,39 @@ export default function List({ breeds }) {
       <NavBar />
       <div className={styles.container}>
         <main className={styles.main}>
+          <div className={styles.title}>
+            <h1 id="top" className="font_dog text_align_center">
+              <u>Favorite Breeds</u>
+            </h1>
+          </div>
           <div className={styles.grid}>
             {breeds.map((breed) => (
-                <div className={styles.card} key={breed.id}>
-                  <div className={styles.card_title}>
-                    <img 
-                      src={breed.avatar} 
-                      alt={breed.owner} 
-                      className={styles.avatar}           
-                       />
-                    <span>{breed.owner}</span>
-                  </div>
-                  <div className={styles.card_image}>
-                    <img
-                      src={breed.url}
-                      alt={breed.name}
-                      className={styles.img_card}                   
-                    />
-                  </div>
-                  <div className={styles.card_description}>
-                    <p>{breed.description}</p>
-                  </div>
+              <div
+                className={`${styles.card} flip-vertical-left`}
+                key={breed.id}>
+                <div className={styles.card_title}>
+                  <img
+                    src={breed.avatar}
+                    alt={breed.owner}
+                    className={styles.avatar}
+                  />
+                  <span>{breed.owner}</span>
                 </div>
-              ))}
-          </div>  
+                <div className={styles.card_image}>
+                  <img
+                    src={breed.url}
+                    alt={breed.name}
+                    className={styles.img_card}
+                  />
+                </div>
+                <div className={styles.card_description}>
+                  <p>{breed.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         </main>
+        <BackTop />
       </div>
       <Footer />
     </>

@@ -19,7 +19,7 @@
   text-align: center;
   font-family: "Yellowtail", cursive;
   font-weight: normal;
-  
+
   a {
     color: #0070f3;
     text-decoration: none;
@@ -32,15 +32,14 @@
   }
 }
 
-  .logo {
-    height: 1em;
-    margin-left: 0.5rem;
-  }
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
 
-  @media (max-width: 600px) {
-    .grid {
-      width: 100%;
-      flex-direction: column;
-    }
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
   }
-
+}
