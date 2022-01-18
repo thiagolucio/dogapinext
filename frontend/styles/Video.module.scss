@@ -1,0 +1,28 @@
+@import "./variables.module.scss";
+
+.main {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height: auto;
+    background-color: #333;
+    padding: 10% 2% 6% 2%;
+    color: $green_color;
+
+    .slogan {
+        width: 100%;
+        margin: 0 16px;
+    }
+
+    iframe {
+        border-radius: 6px;
+    }
+}
+
+@media (max-width: 600px) {
+    .main {
+      width: 100%;
+      flex-direction: column;
+    }
+  }

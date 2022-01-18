@@ -1,28 +1,6 @@
 .container {
   padding: 6rem 2rem;
   background: rgb(255, 255, 255);
-  background: -moz-linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0) 9%,
-    rgba(230, 226, 221, 1) 47%,
-    rgba(246, 245, 243, 1) 93%,
-    rgba(255, 255, 255, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0) 9%,
-    rgba(230, 226, 221, 1) 47%,
-    rgba(246, 245, 243, 1) 93%,
-    rgba(255, 255, 255, 1) 100%
-  );
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0) 9%,
-    rgba(230, 226, 221, 1) 47%,
-    rgba(246, 245, 243, 1) 93%,
-    rgba(255, 255, 255, 1) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
 }
 
 .main {

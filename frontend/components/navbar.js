@@ -2,15 +2,17 @@ import Link from "next/link";
 import Image from "next/image";
 import ImageLogo from "../public/images/dod_open.gif";
 
+import styles from '../styles/Navbar.module.scss';
+
 export default function NavBar() {
   return (
-    <nav>
-      <div className="logo_navbar">
+    <nav className={styles.nav}>
+      <div className={styles.logo_navbar}>
         <Image
           src={ImageLogo}
           alt="Hero Image from Site"
-          width={60}
-          height={60}
+          width={50}
+          height={50}
           layout="intrinsic"
         />
         <span>My Dog</span>
