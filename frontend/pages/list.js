@@ -15,10 +15,9 @@ export async function getStaticProps() {
     props: {
       breeds: data,
       isLoading: true,
-    }
+    },
   };
 }
-
 
 export default function List({ breeds }) {
   return (
@@ -33,9 +32,10 @@ export default function List({ breeds }) {
             </h1>
           </div>
           <div className={styles.grid}>
-            {isLoading ? 
-               <Loading /> :
-               <>
+            {isLoading ? (
+              <Loading />
+            ) : (
+              <>
                 {breeds.map((breed) => (
                   <div
                     className={`${styles.card} flip-vertical-left`}
@@ -59,9 +59,9 @@ export default function List({ breeds }) {
                       <p>{breed.description}</p>
                     </div>
                   </div>
-                ))}               
-               </>
-            }
+                ))}
+              </>
+            )}
           </div>
         </main>
         <BackTop />
